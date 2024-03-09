@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        YouTube - Search Results Cleaner
+// @name        YouTube Search Results Cleaner
 // @version     1
 // @author      Jones
 // @match       *://www.youtube.com/results?search_query
