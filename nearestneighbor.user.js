@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Nearest Neighbor
-// @version     1
+// @version     2
 // @author      Jones
 // @match       *://*/*
 // @grant       GM_addStyle

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Old Reddit Expand
-// @version     1
+// @version     2
 // @author      Jones
 // @match       *://old.reddit.com/r/*
 // ==/UserScript==
