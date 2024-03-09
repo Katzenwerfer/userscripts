@@ -7,7 +7,8 @@
 // ==/UserScript==
 
 GM_addStyle(`
-img {
+img,
+video {
     image-rendering: crisp-edges !important;
 }
 `)
