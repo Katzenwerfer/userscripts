@@ -5,3 +5,9 @@
 // @match       *://*/*
 // @grant       GM_addStyle
 // ==/UserScript==
+
+GM_addStyle(`
+img {
+    image-rendering: crisp-edges !important;
+}
+`)
